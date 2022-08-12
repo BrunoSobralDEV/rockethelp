@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "rnative-firebase-ignite-labs",
+    "slug": "rnative-firebase-ignite-labs",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
