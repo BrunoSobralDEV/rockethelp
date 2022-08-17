@@ -28,7 +28,7 @@
 -  [Expo](https://expo.dev/)
 -  [Phosphor Icon](https://phosphoricons.com/)
 -  [React Native SVG Transformer](https://github.com/kristerkari/react-native-svg-transformer)
--  [VS Code][vc] with [ESLint][vceslint]
+-  [VS Code](https://code.visualstudio.com/)
 
 
 Feito por Bruno Sobral :wave: [Entre em contato!](https://www.linkedin.com/in/brunosobraldev/)
