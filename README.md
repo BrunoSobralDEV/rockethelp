@@ -31,4 +31,4 @@
 -  [VS Code](https://code.visualstudio.com/)
 
 
-Feito por Bruno Sobral :wave: [Entre em contato!](https://www.linkedin.com/in/brunosobraldev/)
+Feito por Bruno Sobral :wave: <a href="https://www.linkedin.com/in/brunosobraldev/" target="_blank">Entre em contato!</a>
