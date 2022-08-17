@@ -1,8 +1,9 @@
 {
   "expo": {
-    "name": "rnative-firebase-ignite-labs",
-    "slug": "rnative-firebase-ignite-labs",
+    "name": "RocketHelp",
+    "icon": "./src/assets/Logo.png",
     "version": "1.0.0",
+    "slug": "rnative-firebase-ignite-labs",
     "assetBundlePatterns": [
       "**/*"
     ],
@@ -11,11 +12,13 @@
     ],
     "android": {
       "package": "com.rockethelp",
-      "googleServicesFile": "./google-services.json"
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 1
     },
     "ios": {
       "bundleIdentifier": "com.rockethelp",
-      "googleServicesFile": "./GoogleService-Info.plist"
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "buildNumber": "1.0.0"
     }
   }
 }
